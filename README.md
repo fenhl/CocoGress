@@ -1,4 +1,6 @@
-Progress
-========
+CocoGress
+=========
 
-A modern take on GTD, for OS X
+[Gress][] client for OS X
+
+[Gress]: http://fenhl.net/gres/ (Fenhl: Gress)
