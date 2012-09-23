@@ -1,6 +1,6 @@
 CocoGress
 =========
 
-[Gress][] client for OS X
+CocoGress is the working title of a [Progress][] client for OS X.
 
-[Gress]: http://fenhl.net/gres/ (Fenhl: Gress)
+[Progress]: http://fenhl.net/gres/ (Fenhl: Progress)
